@@ -1,0 +1,7 @@
+name: Restarter
+main: me.seetch.restarter.Restarter
+version: "${pom.version}"
+api: 1.0.13
+authors:
+  - "https://github.com/seetch"
+website: "https://github.com/weminerune/Restarter"
